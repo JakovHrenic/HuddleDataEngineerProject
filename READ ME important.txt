@@ -1,0 +1,21 @@
+Hello.
+
+I would like to quickly explain the situation of my assignment.
+I had some problems with installing and configuring everything needed for this assignment:
+SQL server, git, python, etc. I have a really old PC which has trouble handling such things.
+
+I ran the two python scripts you can see in the repo.
+I ran the SQL code for creating the schema, but I couldn't insert the data
+in the tables I created. So I just wrote how an SQL code for Steps 5 and 6
+would look like and should work.
+
+In my previous work experience, our Data Engineering team was separated in two subteams:
+Data Ops and Data Platform. We used ELT instead of the usual ETL.
+Data Ops was in charge of Extract and Load,
+and Data Platform (my team) was in charge of Transform.
+So the process I showed here was kind of new to me, so it took more time
+than I expected, and I had more problems with it that I inicitially thought.
+But it brought me new experience, which I am happy with, and I am sure
+that I would be able to finish the assignment in time if I had more time and-or experience.
+
+Thank you for the opportunity, hope to hear from you!
